@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the tryals of Captain J. Golden. Thomas Jones. John Gold. Lawrance Maliene. Patrick Whitley. John Slaughter. Const. D'Heaity. Richard Shewers. Darby Collins. John Ryon. Dennis Cockram. John Walsh. At the Court of Admiralty held in the Marshalsea in Southwark, before the Right Honourable the Judges: on monday the 25th. of Feb. 1693/4. Of which 9 were found guilty, and received sentence of death: 3 for high treason, and 6 for piracies and roberys on the seas, under the colour of the late King James's commission. Licens'd Feb. 27th. 1693/4</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26179</idno>
+            <idno type="STC">Wing A417C</idno>
+            <idno type="STC">ESTC R213072</idno>
+            <idno type="EEBO-CITATION">99825585</idno>
+            <idno type="PROQUEST">99825585</idno>
+            <idno type="VID">29971</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29971)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1802:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the tryals of Captain J. Golden. Thomas Jones. John Gold. Lawrance Maliene. Patrick Whitley. John Slaughter. Const. D'Heaity. Richard Shewers. Darby Collins. John Ryon. Dennis Cockram. John Walsh. At the Court of Admiralty held in the Marshalsea in Southwark, before the Right Honourable the Judges: on monday the 25th. of Feb. 1693/4. Of which 9 were found guilty, and received sentence of death: 3 for high treason, and 6 for piracies and roberys on the seas, under the colour of the late King James's commission. Licens'd Feb. 27th. 1693/4</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Clare at the Globe on London-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and publication date from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:29971:1" rendition="simple:additions"/>
+            <head>An Account of the <hi>TRYALS OF</hi>
+               <list>
+                  <item>
+                     <hi>Captain</hi> J. Golden.</item>
+                  <item>Thomas Jones.</item>
+                  <item>John Gold.</item>
+                  <item>Lawrance Maliene.</item>
+                  <item>Patrick Whitley.</item>
+                  <item>John Slaughter.</item>
+                  <item>Conſt. D'Heaity.</item>
+                  <item>Richard Shewers.</item>
+                  <item>Darby Collins.</item>
+                  <item>John Ryon.</item>
+                  <item>Dennis Cockram.</item>
+                  <item>John Walſh.</item>
+               </list>
+            </head>
+            <head type="sub">At the Court of <hi>Admiralty</hi> held in the <hi>Marſhalſea</hi> in <hi>Southwark,</hi> before the Right Honourable the Judges: on <hi>monday</hi> the 25th. of <hi>Feb. 1693/4.</hi> Of which <hi>9</hi> were found Guilty, and received Sentence of Death: <hi>3</hi> for High Treaſon, and <hi>6</hi> for Pi<g ref="char:EOLhyphen"/>racies and Roberys on the Seas, under the colour of the late King <hi>James</hi>'s Commiſſion.</head>
+            <argument>
+               <p>Licens'd Feb. 27th. 1693/4.</p>
+            </argument>
+            <p>A Coutrt of <hi>Admiralty,</hi> by Vertue of a Commiſſion from Their Ma<g ref="char:EOLhyphen"/>jeſties being held on <hi>Monday</hi> the 26th of this inſtant <hi>February,</hi> at the <hi>Marſhalſes</hi> in <hi>Southwark,</hi> before the Right Honourable the Judges; the Pro<g ref="char:EOLhyphen"/>ceedings were as they related to the Pri<g ref="char:EOLhyphen"/>ſoners, herein mentioned in this manner,</p>
+            <p>
+               <hi>Thomas Jones</hi> was Indicted for High-Treaſon, for that he being a Natural born Subject of Their Majeſties, contrary to his Duty and Allegiance, being on Board a Veſſel, Commiſſioned by the late K. <hi>James,</hi> Aſſaulted by open Force and Violence, one of Their Majeſty's Men of War; and the Evidence being plain againſt him, that he was taken with o<g ref="char:EOLhyphen"/>thers in the Attempt, and he making but a ſlender defence in his behalf, excuſing it only that he knew not the danger of ſuch an Attempt, and did it through Ig<g ref="char:EOLhyphen"/>norance, as ſuppoſing the Commiſſion he acted under ſufficient to warrant his Illegal Proceedings; the Jury being di<g ref="char:EOLhyphen"/>rected by the Court as to matter of Fact, he was found Guilty of High-Treaſon.</p>
+            <p>
+               <hi>John Golden,</hi> or <hi>Ooldin, John Gold, Lawrence Maliene,</hi> and another Perſon, were Indicted for High-Treaſon, as the former for Engaging, and hauling the <hi>James Galley,</hi> one the Their Majeſty's Frigates, or men of War, carrying their Flag.</p>
+            <p>In the <hi>Sun-Praivateer</hi> belonginging to <hi>France,</hi> Commiſſioned by the latk King <hi>James;</hi> the King's Witneſſes ſwore po<g ref="char:EOLhyphen"/>ſitively to <hi>John Golden,</hi> who was ſtiled the Captain of the Sun-Privateer, be<g ref="char:EOLhyphen"/>fore-mentioned; as likewiſe to <hi>John Gold</hi> the former of which endeavoured to ex<g ref="char:EOLhyphen"/>cuſe himſelf, as pretending to be a <hi>French<g ref="char:EOLhyphen"/>man,</hi> or at leaſt carried out of <hi>Ireland</hi> in<g ref="char:EOLhyphen"/>to <hi>Britany</hi> in <hi>France</hi> ſo young, that he knew not his Parentage in any other Nation, but that not ſufficiently appear<g ref="char:EOLhyphen"/>ing, he delivered a long Paper which Read in Court, in which were cited ſome Tranſactions of former times, which <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:29971:2"/>he apprehended related to his Circum-cumſtances by way of Excuſe; but he was in that over-ruled by the Court, who told him, it was not material to his pur<g ref="char:EOLhyphen"/>poſe, &amp; thoſe that adviſed him to it, were not his Friends, or to the like purporſe; then he prayed he might have a ſpecial Verdict, but the Court thought not fit to allow it.</p>
+            <p>
+               <hi>John Gold</hi> pleaded little for himſelf, but in alledging his Ignorance in not be<g ref="char:EOLhyphen"/>ing apprehenſive of the danger he under<g ref="char:EOLhyphen"/>took when he went on Board the Priva<g ref="char:EOLhyphen"/>teer, ſuppoſing the Commiſſion they had to be Authentick. Againſt the other two Perſons indicted with them, the E<g ref="char:EOLhyphen"/>vidence not being poſſitive, they were acquitted, but the two former were brought in guilty of High-Treaſon, as laid in the Indictment.</p>
+            <p>
+               <hi>Patrick Whitly, John Sangſter,</hi> and <hi>Conſtine' De Heartly</hi> were indicted for Pi<g ref="char:EOLhyphen"/>racy and Robbery on the Seas, and upon Evidence it appeared that they and others were found on Board an <hi>Engliſh</hi> Veſſel, retaken by one of Their Majeſties Men of War, on the <hi>Weſtern-Coaſts.</hi> The E<g ref="char:EOLhyphen"/>vidence for the King was poſſitive againſt them, <hi>That they were found on Board the Ship they had taken;</hi> and their Exami<g ref="char:EOLhyphen"/>nations being produced, wherein they had confeſſed the matter of Fact, tho excuſing it in Court thrhugh ignorance: upon the <hi>Juries going out,</hi> they were found guilty of the Piracy, Robbery and Force uſed upon the <hi>Engliſh</hi> Veſſel, <hi>Super Ma<g ref="char:EOLhyphen"/>re Altum;</hi> it evidently appearing. More<g ref="char:EOLhyphen"/>over the Perſons were Their Majeſties Natural Born Subjects, yet acting againſt them, and to the prejudlce of their Liege People, py Robberies and Depredations contrary to the Laws of Nature and Na<g ref="char:EOLhyphen"/>tions.</p>
+            <p>
+               <hi>Richard Shevers, Darby Collins, John Ryon, Denis Cockram, and John Walſh</hi> were as the foregoing, urged for Piracy and Robbery, and impaired thereto as they fancy'd, by vertue of a Commiſſi<g ref="char:EOLhyphen"/>on granted by the Late King <hi>James:</hi> Upon Evidence it appear'd that the three firſt were taken on Board an <hi>Engliſh</hi> Veſ<g ref="char:EOLhyphen"/>ſel they had ſeized, and were carrying into <hi>France,</hi> upon it's being Retaken by their Majeſties Ship the Prince of <hi>O<g ref="char:EOLhyphen"/>range,</hi> ſo that making but ſlender Ex<g ref="char:EOLhyphen"/>cuſes, and their Informations taken, ma<g ref="char:EOLhyphen"/>king their former Excuſes Evident, they were found Guilty; but the Evidence not being full againſt the two Latter, they were Acquitted.</p>
+            <p>
+               <hi>Job Higingbottom</hi> was Tryed for the Murther of one <hi>Moriſs</hi> alias <hi>Mariſon,</hi> upon the Evidence it ap<g ref="char:EOLhyphen"/>peared, that he being Maſter of a Veſſel, it was ſtranded near the Iſle of <hi>Orkney,</hi> belonging to <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> and that the Deceaſed, and others that were Servants on Board his Veſſel, carrying away the Boat, and getting on Shore, he called him to return with the Boat, but he refuſing ſo to do, and the Ship ſtill beating on the Shallows <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n likelihood to be loſt, as afterward it was, he fired after him with a Mus<g ref="char:EOLhyphen"/>quet and at the ſecond time hit him on the back part of the Head, of which Wound he died: He alledged in his own Defence, that he did it only to fright him into a Retur<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with the Boat, deſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gning to fire over or wide of him; but the Violent Motion of the Ship, made him unfortunately Err in his Inten<g ref="char:EOLhyphen"/>tions, and it appearing to be done in a Diſtinct King<g ref="char:EOLhyphen"/>dom, as a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſo not upon the Main Ocean, the Jury found him not Guilty o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Indictment.</p>
+            <p>
+               <hi>Theſe being the M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rial P<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>c<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dings of the Day, th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Priſoners that were found Guilty, being brought to the Barr, the Court pro<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ded to <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce upon</hi> Thoma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Jones, John Golden, <hi>and</hi> John G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld, <hi>to <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e drawn, hanged, and quart<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in Caſes of High Treaſon the Law directs.</hi>
+            </p>
+            <p>Patrick Whitley, John Sangſter, John Ryon Darby Collins, <hi>and</hi> Richard Sheuer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Received S<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tence to be hanged only as</hi> Pirates, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>J. Clare<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> at the <hi>Globe <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n London-Bridge.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
